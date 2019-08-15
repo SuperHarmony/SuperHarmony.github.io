@@ -1,0 +1,15 @@
+---
+layout: post
+title: "test blog"
+subtitle: 'just a test'
+author: "Hc"
+header-style: text
+tags:
+  - test
+---
+
+输入中文
+
+------
+
+中文世界
