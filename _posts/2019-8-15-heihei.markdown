@@ -1,3 +1,15 @@
+---
+layout: post
+title: "test2 blog"
+subtitle: 'just a test2'
+author: "Hc"
+header-style: text
+header-img: "img/tag-bg.jpg"
+tags:
+
+  - test2
+---
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -9,17 +21,6 @@
         });
     </script>
 </head>
-
----
-layout: post
-title: "test2 blog"
-subtitle: 'just a test2'
-author: "Hc"
-header-style: text
-tags:
-
-  - test2
----
 
 输入中文2
 
@@ -49,3 +50,47 @@ $$
 
 > blabla$\Omega$
 
+![img](/img/avatar-hux-home.jpg)
+
+![img](/img/post-bg-web.jpg.jpg)
+
+
+
+# 中国abcd
+
+## 中国abcd
+
+<kbd>Ctrl</kbd>
+
+```C
+int main(void)
+{
+	printf("helloworld");
+}
+```
+
+:hong_kong:
+
+**举头**_望明_月==低头==~~思故~~`乡`
+
+
+
+list
+
+- 1
+- 2
+- 3
+  - 2.2
+  - 121
+  - 12
+- 131
+- 13
+
+1. 21
+2. 121
+3. 1213
+4. 124
+
+- [ ]  what
+
+- [x] complete
