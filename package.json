@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "hchchchchchc",
-    "author": "hchchchchchc <hchchchchchc@hchchchchchc.com>",
+    "name": "hc-blog",
+    "title": "superharmony",
+    "author": "superharmony <chaohmbuaa@163.com>",
     "version": "1.7.0",
-    "homepage": "http://hchchchchchc.github.io",
+    "homepage": "http://superharmony.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hchchchchchc/hchchchchchc.github.io"
+        "url": "https://github.com/superharmony/superharmony.github.io"
     },
-    "bugs": "https://github.com/hchchchchchc/hchchchchchc.github.io/issues",
+    "bugs": "https://github.com/superharmony/superharmony.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

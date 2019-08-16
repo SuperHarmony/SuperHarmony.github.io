@@ -4,7 +4,7 @@ SEOTitle: hc的博客 | hc's Blog
 header-img: img/home-bg.jpg
 email: huangchaomailbox@163.com
 description: "Just a BLOG | Software Engineer | 这里是博客，与你一起发现更大的世界。"
-keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "博客, 个人网站, 工具, 软件, 设计"
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hcpro
-zhihu_username:     hcpro
-github_username:    hcpro
-twitter_username:   hcpro
+#weibo_username:     hcpro
+zhihu_username:     superharmony
+github_username:    superharmony
+#twitter_username:   hcpro
 #facebook_username:  hcpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For the next quantum leap<br>但行好事,莫问前程"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
