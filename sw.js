@@ -30,8 +30,9 @@ const PRECACHE_LIST = [
   // "//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"
 ]
 const HOSTNAME_WHITELIST = [
-  self.location.hostname,
-  "huangxuan.me"
+  self.location.hostname
+//  ,
+// "huangxuan.me"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 
