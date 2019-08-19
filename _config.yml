@@ -1,5 +1,5 @@
 # Site settings
-title: Code Craft | Pursuit of Happiness
+title: Code Craft | 编程匠
 SEOTitle: hc的博客 | hc's Blog
 header-img: img/home-bg.jpg
 email: huangchaomailbox@163.com
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     hcpro
+weibo_username:     superSIMacro
 zhihu_username:     superharmony
 github_username:    superharmony
 #twitter_username:   hcpro
