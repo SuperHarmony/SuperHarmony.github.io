@@ -22,7 +22,7 @@ tags:
     </script>
 </head>
 
-[TOC]
+
 
 simple，yet powerful
 

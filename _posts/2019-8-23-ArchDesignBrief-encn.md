@@ -1,3 +1,16 @@
+---
+layout: post
+title: "架构设计中英文对照"
+subtitle: '英语专有名词'
+author: "Hc"
+header-style: text
+header-img: "img/tag-bg.jpg"
+tags:
+
+  - 软考
+  - 系统架构设计
+---
+
 | 名词           | 意义   | 详细                                                       |
 | -------------- | ------ | ---------------------------------------------------------- |
 |Abstract class | 抽象类 | 不能直接实例化的类——只能通过它具体的子类而拥有间接的实例。 |
@@ -14,7 +27,7 @@
 |Applet|小应用程序|运行于客户机上的程序，并且在另一个程序(Web浏览器）的环境中运行，其处理能力受到浏览器的控制（限制）。  |
 |Application server|应用服务器|体系结构层，处理业务构件及业务规则。  |
 |Architecture|体系结构|根据其模块(构件）而进行的系统描述。它定义了一个系统是如何设计的，以及构件之间是如何连接的。  |
-|Architectural framework|体系结构框架|  | 
+|Architectural framework|体系结构框架|  |
 |Architectural meta-model|体系结构元模型|为软件体系结构定义框架的一个高层模型，具体的系统设计能够选择并遵照它。  |
 |Artifact|人工制品|BPMN元素，通过允许扩展基本表示法提供额外的建模灵活性； 可以预定义3种类型的人工制品：数据对象(Data object）、组(group）和注释(annotation）。  |
 |Association|关联|两个或多个分类符之间的语义关系，包含类的实例之间的连接。  |
@@ -92,7 +105,7 @@
 |Enhancement|改进|被正视的变更，下一步将采取行动。  |
 |ER（Entity Relationship）|实体关系。  | |
 |EAP（Explicit Association Principle）|PCBMER中的显式关联原则。  ||
-|ERD（Entity Relationship Diagram）|实体联系图，也称实体关系图|是指提供了表示实体型、属性和联系的方法，用来描述现实世界的概念模型。E-R方法:是“实体-联系方法”|Entity-Relationship Approach）的简称。它是描述现实世界概念结构模型的有效方法。  |
+|ERD（Entity Relationship Diagram）|实体联系图，也称实体关系图|是指提供了表示实体型、属性和联系的方法，用来描述现实世界的概念模型。E-R方法:是“实体-联系方法”（Entity-Relationship Approach）的简称。它是描述现实世界概念结构模型的有效方法。  |
 |ERP（Enterprise Resource Planning）|企业资源计划|ERP 是由美国计算机技术咨询和评估集团 Gartner Group Inc 提出的一种供应链的管理思想。企业资源计划是指建立在信息技术基础上，以系统化的管理思想，为企业决策层及员工提供决策运行手段的管理平台。ERP 系统支持离散型、流程型等混合制造环境，应用范围从制造业扩展到了零售业、服务业、银行业、电信业、政府机关和学校等事业部门，通过融合数据库技术、图形用户界面、第四代查询语言、客户服务器结构、计算机辅助开发工具、可移植的开放系统等对企业资源进行了有效的集成。  |
 |Event|事件|某个发生事情的规格说明，发生的事情可能由一个对象潜在地触发结果。  |
 |Facade|外观|使子系统易于使用的高层接口，子系统之间通信和依赖最小化。  |
@@ -137,7 +150,7 @@
 |Model|模型|来自现实的抽象； 外部实现的某些方面在软件中的表现。  |
 |Mutator|修改者|类方法，更改它所调用的对象的状态。也称为setter（安装者）。  |
 |MVC|Model View Controller|模型——视图——控制器体系结构框架。  |
-|NCP|Neighbor Communication Principle|PCBMER中的相邻通信原则。 | 
+|NCP|Neighbor Communication Principle|PCBMER中的相邻通信原则。 |
 |Node|节点|人工制品可以在上面部署运行的计算资源。  |
 |Non-functional requirement|非功能性需求|即Constraint Statement（约束陈述）。  |
 |Normalization|范式化|设计能够避免更新异常数据表的过程。  |
@@ -218,7 +231,7 @@
 |System scope model|系统范围模型|确定系统边界和主要责任的高层业务模型。  |
 |System use case|系统用例|将系统看做一个整体，标识其一般性需要的用例。  |
 |Swing：一个类库，支持桌面应用程序的GUI实现。  |
-|SWOT  |S （strengths）是优势、W （weaknesses）是劣势，O （opportunities）是机会、T （threats）是威胁。  |按照企业竞争战略的完整概念，战略应是一个企业“能够做的”|即组织的强项和弱项）和“可能做的”|即环境的机会和威胁）之间的有机组合。  |
+|SWOT  |S （strengths）是优势、W （weaknesses）是劣势，O （opportunities）是机会、T （threats）是威胁。  |按照企业竞争战略的完整概念，战略应是一个企业“能够做的”（即组织的强项和弱项）和“可能做的”（即环境的机会和威胁）之间的有机组合。  |
 |System planning|系统规划|为组织定义了策略方向的初始规划。  |
 |Table|表|关系数据库中数据定义与数据存储的基本单位。所有用户访问的数据都存储在表中。  |
 |Tag definition|标签定义|构造型的一个特性，显示为含有构造型声明的类矩形中的一个属性。  |
