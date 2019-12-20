@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "第2章 信息系统基础"
-subtitle: '两个月，冲鸭！'
+subtitle: '两个月！'
 author: "Hc"
 header-style: text
 header-img: "img/tag-bg.jpg"

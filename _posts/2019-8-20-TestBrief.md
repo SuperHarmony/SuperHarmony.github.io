@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "系统架构设计师考试"
-subtitle: '两个月，冲鸭！'
+subtitle: '两个月！'
 author: "Hc"
 header-style: text
 header-img: "img/tag-bg.jpg"
@@ -74,7 +74,6 @@ tags:
 <center>善于学习的能力 </center>
 <center>良好的书面表达</center>
 <center>强健的身体素质</center>
-
 # 学习路线
 
 **信息系统基础**
