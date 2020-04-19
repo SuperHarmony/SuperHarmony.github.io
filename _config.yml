@@ -103,11 +103,11 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "百度",
-        href: "http://www.baidu.com/"
-    },{
         title: "微博",
         href: "http://www.weibo.com/"
+    },{
+        title: "B站",
+        href: "http://www.bilibili.com/"
     }
 ]
 
